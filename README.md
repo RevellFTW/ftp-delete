@@ -1,3 +1,4 @@
+# A powershell script which deletes the folders listed in the csv, based on the config.json
 ## Connect to ftp server using client like winscp
  - server: ftp.dlptest.com
  - username: dlpuser

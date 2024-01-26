@@ -1,2 +1,7 @@
-# ftp-delete
-powershell script to delete folders on ftp server based on csv
+## Connect to ftp server using client like winscp
+ - server: ftp.dlptest.com
+ - username: dlpuser
+ - password": rNrKYTX9g7z3RgJRmxWuGHbeu
+## Create folders named 111, 112, 113 in the tmp folder
+ - if tmp folder doesn't exist in the root folder, create it.
+

@@ -1,0 +1,8 @@
+{
+    "remoteUrl": "ftp.dlptest.com",
+    "remoteUsername": "dlpuser",
+    "remotePassword": "rNrKYTX9g7z3RgJRmxWuGHbeu",
+    "remoteBasePath": "tmp",
+    "csvFilePath": "todelete.csv"
+  }
+  
